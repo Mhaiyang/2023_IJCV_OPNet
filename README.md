@@ -25,4 +25,4 @@ If you use this code, please cite:
 Please see `LICENSE`
 
 ### Contact
-E-Mail: mhaiyang.mei@outlook.com
+E-Mail: haiyang.mei@outlook.com
